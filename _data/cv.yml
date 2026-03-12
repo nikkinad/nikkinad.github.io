@@ -209,43 +209,91 @@ cv:
         awarder: Kiwanis Club of Goulburn
         summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
  
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    # Publications:
+    #   - title: Zur Elektrodynamik bewegter Körper
+    #     authors:
+    #       - Albert Einstein
+    #     publisher: Annalen der Physik
+    #     releaseDate: 1905-06-30
+    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+    #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      #   authors:
+      #     - Albert Einstein
+      #   publisher: Annalen der Physik
+      #   releaseDate: 1905-03-18
+      #   url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
+      #   summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      # - title: Die Grundlage der allgemeinen Relativitätstheorie
+      #   authors:
+      #     - Albert Einstein
+      #   publisher: Annalen der Physik
+      #   releaseDate: 1916-03-20
+      #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
+      #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    - name: Mechanical Design & Engineering
+      level: Intermediate
+      icon: fa-solid fa-hashtag
+      keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving" #CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Human-Centered Design, Prototyping, Rapid Prototyping, Materials Understanding, Material Selection, Mechanical Assembly, Technical Documentation, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
+
+    - name: Laboratory & Workshop Skills
+      level: Intermediate
+      icon: fa-solid fa-flask
+      keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing,  Following Protocols, Calibration"
+
+    - name: Programming & Data Tools
+      level: Beginner/Intermediate
+      icon: fa-solid fa-code
+      keywords: "C++, RStudio, Python, MATLAB, Arduino, Bash, Git BASH, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection, Sensor Integration, Visualization"
+
+    - name: Project Management & Problem Solving
+      level: Advanced
+      icon: fa-solid fa-lightbulb
+      keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making, Independent Judgement, High Level of Accuracy, Attention to Detail, Iterative Solutions"
+
+    - name: Collaboration & Communication
+      level: Advanced
+      icon: fa-solid fa-users
+      keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing, Scientific Presentation, Scientific Reports, User-Centered Testing, Feedback Incorporation"
+  
+      # - name: Collaboration & Communication
+      #   level: Advanced
+      #   icon: fa-solid fa-users
+      #   keywords: "Teamwork, Leadership, Coordination, Empathy, Client Interaction, Mentoring, Presentation, Reporting, Stakeholder Communication"
+   
+      # - name: Engineering & Design
+      #   level: Intermediate
+      #   icon: fa-solid fa-hashtag
+      #   keywords: "CAD, SolidWorks, Technical Drawing, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Materials Understanding, Design Thinking, Iterative Solutions,  Problem-Solving, Concept Development, Spatial Planning,  Human-Centered Design"
+   
+      # - name: Programming & Data
+      #   level: Intermediate
+      #   icon: fa-solid fa-hashtag
+      #   keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Event Planning, Decision-Making, Independent Judgement"
+   
+      # - name: Laboratory Skills
+      #   level: Intermediate
+      #   icon: fa-solid fa-flask
+      #   keywords: "Lab Safety, Workshop Safety, Experiment Setup, Prototype Assembly, Measurement, Tool Handling, Equipment Operation, Material Cutting & Shaping, 3D Printing, Troubleshooting, Documentation, Iterative Design, Quality Control, Project Testing"
+
+      # - name: Project Management & Problem Solving
+      #   level: Advanced
+      #   icon: fa-solid fa-lightbulb
+      #   keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Event Planning, Decision-Making, Independent Judgement"
 
     Languages:
-      - name: German
+      - name: English
         summary: "Native speaker"
 
-      - name: English
+      - name: French
         summary: "Fluent"
+
+       - name: Bosnian
+        summary: "Beginner"
 
     Interests:
       - name: Physics
