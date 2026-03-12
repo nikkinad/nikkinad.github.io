@@ -35,16 +35,21 @@ cv:
         highlights:
           - Dean's List Recipient {2024 and 2025}
           - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024} 
+          - Dalhousie Ringette Club, Loaded Ladle Volunteer 
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: South Carleton High School
+        location: Ottawa, Ontario
+        # area: Physics
+        studyType: Ontario High School Diploma 
+        start_date: 2019
+        end_date: 2023
         highlights:
-          - Description 1.
-          - Description 2.
+          - French Immersion Certificate
+          - Recieved Honour Roll and Silver Medal awards for all 4 years
+          - Honoured with the South Carleton Staff Centennial Award in 2023
+          - Prom Comittee Fundraising Coordinator, Link Crew Leader, Leadership Planning Committee
+          - Varsity Rugby Assistant Captain, Wheelchair Basketball Team Leader
+          - Girls Touch Football, Alpine Ski Racing 
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
