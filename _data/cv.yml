@@ -144,21 +144,71 @@ cv:
  #         - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Eclipsys Women in STEM Scholarship
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "DSP-Eclipsys Inc."
+        date: 2025
+        date: 2024
+        date: 2023
+        awarder: DSP-Eclipsys Inc.
+        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: Three-time recipient, awarded to an outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
 
-      - title: Max Planck Medal
+      - title: OCDSB Silver Medal Award
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Ottawa Carleton School District Board"
+        date: 2020
+        date: 2021
+        date: 2022
+        date: 2023
+        awarder: Ottawa Carleton School District Board
+        url: https://southcarletonhs.ocdsb.ca/student-services/guidance/certificates
+        summary: Consistently recognized for academic excellence over multiple years.
+     
+      - title: Staff Centennial Award 
+        authors:
+          - "South Carleton High School"
+        date: 2023
+        awarder: South Carleton High School
+        summary: Selected by staff as the sole recipient for exemplary contributions, leadership, and positive impact within the school community.
+  
+      - title: J.D. Green Spirit Award
+        authors:
+          - "West Ottawa Ringette Association"
+        date: 2019
+        date: 2021
+        awarder: West Ottawa Ringette Association
+        url: https://www.westottawaringette.com/content/wora-awards
+        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals.
 
+      - title: Tony Hodgins Award
+        authors:
+          - "Tony Hodgins- West Ottawa Ringette Association"
+        date: 2023
+        awarder: Tony Hodgins- West Ottawa Ringette Association
+        summary: Awarded by the coach to a graduating player displaying exceptional leadership, motivation, and fostering a positive, collaborative team environment.
+
+       - title: Stephanie Hamilton-Donegan Friendship Award
+        authors:
+          - "A. Lorne Cassidy: Ottawa Carleton School District Board"
+        date: 2019
+        awarder: A. Lorne Cassidy: Ottawa Carleton School District Board
+        summary: Award voted by peers and staff, chosen for exceptional trustworthiness, leadership in peer support, and fostering a positive, inclusive environment.
+
+       - title: A. Lorne Cassidy School Letter Award for Leadership, Academics, and Athletics
+        authors:
+          - "A. Lorne Cassidy School"
+        date: 2019
+        awarder: A. Lorne Cassidy School
+        summary: Recognized for leadership, contributions in academics and athletics, and setting a positive example for peers.
+
+       - title: Kiwanis Citizenship Award
+        authors:
+          - "Kiwanis Club of Goulburn"
+        date: 2018
+        awarder: Kiwanis Club of Goulburn
+        summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
+ 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
