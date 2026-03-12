@@ -235,24 +235,24 @@ cv:
       #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-    - name: Mechanical Design & Engineering
+    - name: Mechanical Design
       level: Intermediate
-      icon: fa-solid fa-hashtag
+      icon: fa-solid fa-drafting-compass
       keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving" #CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Human-Centered Design, Prototyping, Rapid Prototyping, Materials Understanding, Material Selection, Mechanical Assembly, Technical Documentation, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
 
     - name: Laboratory & Workshop Skills
       level: Intermediate
-      icon: fa-solid fa-flask
+      icon: fa-solid fa-gears
       keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing,  Following Protocols, Calibration"
 
     - name: Programming & Data Tools
       level: Beginner/Intermediate
-      icon: fa-solid fa-code
+      icon: fa-solid fa-laptop-code
       keywords: "C++, RStudio, Python, MATLAB, Arduino, Bash, Git BASH, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection, Sensor Integration, Visualization"
 
     - name: Project Management & Problem Solving
       level: Advanced
-      icon: fa-solid fa-lightbulb
+      icon: fa-regular fa-lightbulb
       keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making, Independent Judgement, High Level of Accuracy, Attention to Detail, Iterative Solutions"
 
     - name: Collaboration & Communication
