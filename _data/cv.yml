@@ -35,7 +35,7 @@ cv:
         highlights:
           - Dean's List Recipient {2024 and 2025}
           - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024} 
-          - Dalhousie Ringette Club, Loaded Ladle Volunteer 
+          - Dalhousie Ringette Club, Dalhousie Women in Eng (WiE) General Member 
 
       - institution: South Carleton High School
         location: Ottawa, Ontario
@@ -123,19 +123,22 @@ cv:
           - Provided one-on-one support, including for children with autism and special needs, fostering a safe and inclusive environment.
           - Organized excursions and events, coordinating logistics and maintaining safety protocols.
           - Collaborated with staff to maintain structured, positive routines and support smooth center operations.
-
-    Volunteer:
-      - company: Spring Meadows Childcare Centre (formerly Stittsville Childcare Centre)
+          
+      - company: West Ottawa Ringette Association
         position: Volunteer Junior Coach
         location: Ottawa, Ontario
-        start_date: 2019 
+        start_date: 2019
         end_date: 2020
+        start_date: 2022
+        end_date: 2023
         summary: Supported lead educators in creating a fun and safe environment for children aged infant to 12 years old.
         highlights:
-          - Assisted in planning and facilitating creative activities, supporting children’s learning and engagement.
-          - Provided one-on-one support, including for children with autism and special needs, fostering a safe and inclusive environment.
-          - Organized excursions and events, coordinating logistics and maintaining safety protocols.
-          - Collaborated with staff to maintain structured, positive routines and support smooth center operations.
+          - Designed and led on-ice practice drills to build confidence and teamwork
+          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization. 
+          - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
+          - Attended all games and practices to provide consistent guidance and mentorship for young athletes. 
+          - Supported two different teams across multiple seasons, adapting coaching approaches to different group dynamics and skill levels
+      
 
 #"Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
  #         - "Men of the year 2014 by Time magazine"
