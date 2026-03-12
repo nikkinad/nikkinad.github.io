@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nikkinadarevic.github.io/sitemap.xml
+Sitemap: https://nikkinad.github.io/sitemap.xml
