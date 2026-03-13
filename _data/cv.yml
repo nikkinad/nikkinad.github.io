@@ -4,7 +4,7 @@ cv:
   email: nikki.nadarevic@dal.ca
   location: Halifax, Ns
   image: ""
-  summary: Motivated engineering student with strong problem-solving, teamwork, and project coordination skills. 
+  summary: Motivated engineering student with strong problem-solving, teamwork, and project coordination skills.
 
   social_networks:
     - network: X
@@ -33,12 +33,12 @@ cv:
         score: ""
         highlights:
           - Dean's List Recipient {2024 and 2025}
-          - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024} 
-          - Dalhousie Ringette Club, Dalhousie Women in Eng (WiE) General Member 
+          - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024}
+          - Dalhousie Ringette Club, Dalhousie Women in Eng (WiE) General Member
 
       - institution: South Carleton High School
         location: Ottawa, Ontario
-        studyType: Ontario High School Diploma 
+        studyType: Ontario High School Diploma
         start_date: 2019
         end_date: 2023
         highlights:
@@ -47,7 +47,7 @@ cv:
           - Honoured with the South Carleton Staff Centennial Award in 2023
           - Prom Comittee Fundraising Coordinator, Link Crew Leader, Leadership Planning Committee
           - Varsity Rugby Assistant Captain, Wheelchair Basketball Team Leader
-          - Girls Touch Football, Alpine Ski Racing 
+          - Girls Touch Football, Alpine Ski Racing
 
     Experience:
       - company: Syntax Strategic
@@ -68,7 +68,7 @@ cv:
 
       - company: Equator Coffee Roasters
         position: Kitchen Lead and Cafe Server
-        location: Stittsville, Ontario (Location Closed) 
+        location: Stittsville, Ontario (Location Closed)
         start_date: 2022
         end_date: 2024
         summary: Worked with team members to manage cafe operations, ensuring smooth workflow and customer satisfaction.
@@ -99,14 +99,14 @@ cv:
         start_date: 2020
         end_date: 2021
         summary: Supported daycare cleaning operations during COVID-19 to maintain a safe environment.
-        highlights: 
+        highlights:
           - Maintained strict cleaning and sanitization schedules, reducing COVID-19 risks and ensuring child safety.
           - Consistently followed health guidelines and center policies by disinfecting toys, surfaces, and shared spaces daily.
           - Served as a keyholder, trusted with using independent judgment to prioritize tasks efficiently.
 
     Volunteer:
       - company: Spring Meadows Childcare Centre (formerly Stittsville Childcare Centre)
-        position: Volunteer Daycare Assistant 
+        position: Volunteer Daycare Assistant
         location: Ottawa, Ontario
         start_date: 2017
         end_date: 2024
@@ -116,7 +116,7 @@ cv:
           - Provided one-on-one support, including for children with autism and special needs, fostering a safe and inclusive environment.
           - Organized excursions and events, coordinating logistics and maintaining safety protocols.
           - Collaborated with staff to maintain structured, positive routines and support smooth center operations.
-          
+
       - company: West Ottawa Ringette Association
         position: Volunteer Junior Coach
         location: Ottawa, Ontario
@@ -141,7 +141,7 @@ cv:
           - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
           - Attended all games and practices to provide consistent guidance and mentorship for young athletes.
           - Supported two different teams across multiple seasons, adapting coaching approaches to different group dynamics and skill levels
-    
+
     Awards:
       - title: Eclipsys Women in STEM Scholarship
         authors:
@@ -157,14 +157,14 @@ cv:
         awarder: Ottawa Carleton School District Board
         url: https://southcarletonhs.ocdsb.ca/student-services/guidance/certificates
         summary: Consistently recognized for academic excellence over multiple years (2020, 2021, 2022, 2023).
-     
-      - title: Staff Centennial Award 
+
+      - title: Staff Centennial Award
         authors:
           - "South Carleton High School"
         date: 2023
         awarder: South Carleton High School
         summary: Selected by staff as the sole recipient for exemplary contributions, leadership, and positive impact within the school community.
-  
+
       - title: J.D. Green Spirit Award
         authors:
           - "West Ottawa Ringette Association"
@@ -200,8 +200,8 @@ cv:
         date: 2018
         awarder: Kiwanis Club of Goulburn
         summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
- 
-    Publications:    
+
+    Publications:
       - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
         timeframe: 2023 – 2024
         authors:
@@ -209,7 +209,7 @@ cv:
         publisher: Bielawski Research Group, Institute For Comparitive Genomics, Supervisor: Dr. Joseph Bielawski
         releaseDate: 2024
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: 
+        summary:
           - Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement
           - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie's Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource (IMR)
           - Supported microbial DNA extraction and full-length 16S/18S rDNA PacBio amplicon sequencing to characterize both prokaryotic and eukaryotic microbial communities
@@ -218,33 +218,33 @@ cv:
           - Identified statistically significant relationships between microbial composition and environmental factors, using a team-developed R/Shiny-NGS biodiversity analysis platform to visualize microbial community clustering
           - Led development of open-source "Microbial Microscape" educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
           - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
-          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax 
-        
+          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax
+
     Skills:
-    - name: Mechanical Design
-      level: Intermediate
-      icon: fa-solid fa-drafting-compass
-      keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
+      - name: Mechanical Design
+        level: Intermediate
+        icon: fa-solid fa-drafting-compass
+        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
 
-    - name: Laboratory & Workshop Skills
-      level: Intermediate
-      icon: fa-solid fa-gears
-      keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing, Following Protocols, Calibration"
+      - name: Laboratory & Workshop Skills
+        level: Intermediate
+        icon: fa-solid fa-gears
+        keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing, Following Protocols, Calibration"
 
-    - name: Programming & Data Tools
-      level: Beginner/Intermediate
-      icon: fa-solid fa-laptop-code
-      keywords: "C++, RStudio, Python, MATLAB, Arduino, Bash, Git BASH, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection, Sensor Integration, Visualization"
+      - name: Programming & Data Tools
+        level: Beginner/Intermediate
+        icon: fa-solid fa-laptop-code
+        keywords: "C++, RStudio, Python, MATLAB, Arduino, Bash, Git BASH, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection, Sensor Integration, Visualization"
 
-    - name: Project Management & Problem Solving
-      level: Advanced
-      icon: fa-regular fa-lightbulb
-      keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making, Independent Judgement, High Level of Accuracy, Attention to Detail, Iterative Solutions"
+      - name: Project Management & Problem Solving
+        level: Advanced
+        icon: fa-regular fa-lightbulb
+        keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making, Independent Judgement, High Level of Accuracy, Attention to Detail, Iterative Solutions"
 
-    - name: Collaboration & Communication
-      level: Advanced
-      icon: fa-solid fa-users
-      keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing, Scientific Presentation, Scientific Reports, User-Centered Testing, Feedback Incorporation"
+      - name: Collaboration & Communication
+        level: Advanced
+        icon: fa-solid fa-users
+        keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing, Scientific Presentation, Scientific Reports, User-Centered Testing, Feedback Incorporation"
 
     Languages:
       - name: English
@@ -268,7 +268,7 @@ cv:
       - name: Woodworking & Fabrication
         icon: fa-solid fa-hammer
         keywords: "Material Experimentation, Joinery Techniques, Tool Mastery, Precision Cutting, Hands-On Prototyping, Custom Fixtures, Workshop Projects, Rapid Model Construction, Physical Problem Solving"
- 
+
       - name: CAD & Design
         icon: fa-solid fa-unity
         keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Iterative Design, Human-Centered Design, Workflow Optimization, Concept Development, Technical Drawing, Design Thinking, Spatial Planning, Materials Selection"
@@ -288,7 +288,7 @@ cv:
         date: 2022-07-01
         issuer: Thunder Bay District Health Unit
         icon: fa-solid fa-kitchen-set
-        
+
       - name: DELF (Diplôme d'Études en Langue Française)
         date: 2023-01-01
         issuer: France Éducation international
@@ -302,5 +302,3 @@ cv:
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-
