@@ -313,20 +313,25 @@ cv:
         keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Iterative Design, Human-Centered Design, Workflow Optimization, Concept Development, Technical Drawing, Design Thinking, Spatial Planning, Materials Selection"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Workplace Hazardous Materials Information System Training
+        date: 2023-10-01
+        issuer: Dalhousie Univeristy
+        icon: fa-solid fa-fire-extinguisher
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Smart Serve Ontario Certification
+        date: 2025-07-01
+        issuer: Smart Serve Ontario
+        icon: fa-solid fa-wine-glass
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Safe Food Handler Certification
+        date: 2022-07-01
+        issuer: Thunder Bay District Health Unit
+        icon: fa-solid fa-kitchen-set
+        
+      - name: DELF (Diplôme d'Études en Langue Française)
+        date: 2023-01-01
+        issuer: France Éducation international
+        icon: fa-solid fa-earth-europe
 
     Projects:
       - name: Quantum Computing
