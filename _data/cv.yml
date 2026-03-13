@@ -33,8 +33,8 @@ cv:
         score: ""
         highlights:
           - Dean's List Recipient {2024 and 2025}
-          - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024}
-          - Dalhousie Ringette Club, Dalhousie Women in Eng (WiE) General Member
+          - Dalhousie Integrated Science Program Alumni {DISP) {2023 -- 2024}
+          - Dalhousie Ringette Club, Dalhousie Women in Eng {WiE) General Member
 
       - institution: South Carleton High School
         location: Ottawa, Ontario
@@ -82,7 +82,7 @@ cv:
           
       - company: IDA Pharmacy
         position: Pharmacy Assistant
-        location: Richmond (Ottawa), Ontario
+        location: Richmond, Ontario
         start_date: 2021
         end_date: 2022
         summary: Reliably executed tasks essential to medication dispensing while ensuring accuracy, and prioritizing patient safety
@@ -93,8 +93,8 @@ cv:
           - Supported team workflow by anticipating needs and proactively preparing materials and supplies
           - Managed multiple tasks simultaneously while prioritizing urgent requests and deadlines
 
-      - company: Spring Meadows Childcare Centre (formerly Stittsville Childcare Centre)
-        position: Daycare Cleaner (Temporary)
+      - company: Spring Meadows Childcare Centre {formerly Stittsville Childcare Centre}
+        position: Daycare Cleaner {Temporary}
         location: Ottawa, Ontario
         start_date: 2020
         end_date: 2021
@@ -105,7 +105,7 @@ cv:
           - Served as a keyholder, trusted with using independent judgment to prioritize tasks efficiently.
 
     Volunteer:
-      - company: Spring Meadows Childcare Centre (formerly Stittsville Childcare Centre)
+      - company: Spring Meadows Childcare Centre {formerly Stittsville Childcare Centre}
         position: Volunteer Daycare Assistant
         location: Ottawa, Ontario
         start_date: 2017
@@ -148,7 +148,7 @@ cv:
           - "DSP-Eclipsys Inc."
         date: 2025
         awarder: DSP-Eclipsys Inc.
-        summary: Three-time recipient (2023, 2024, 2025), awarded to outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
+        summary: Three-time recipient {2023, 2024, 2025}, awarded to outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
 
       - title: OCDSB Silver Medal Award
         authors:
@@ -156,7 +156,7 @@ cv:
         date: 2023
         awarder: Ottawa Carleton School District Board
         url: https://southcarletonhs.ocdsb.ca/student-services/guidance/certificates
-        summary: Consistently recognized for academic excellence over multiple years (2020, 2021, 2022, 2023).
+        summary: Consistently recognized for academic excellence over multiple years {2020, 2021, 2022, 2023).
 
       - title: Staff Centennial Award
         authors:
@@ -171,7 +171,7 @@ cv:
         date: 2021
         awarder: West Ottawa Ringette Association
         url: https://www.westottawaringette.com/content/wora-awards
-        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals. (2019, 2021)
+        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals. {2019, 2021)
 
       - title: Tony Hodgins Award
         authors:
@@ -202,7 +202,7 @@ cv:
         summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
 
     Publications:
-      - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
+      - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module {MOSOM) Development
         timeframe: 2023 – 2024
         authors:
           - Nikki Nadarevic and Affan Uzir
@@ -211,14 +211,14 @@ cv:
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         summary:
           - Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement
-          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie's Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource (IMR)
+          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie's Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource {IMR)
           - Supported microbial DNA extraction and full-length 16S/18S rDNA PacBio amplicon sequencing to characterize both prokaryotic and eukaryotic microbial communities
-          - Analyzed microbiome datasets consisting of metadata, taxonomic classifications, and amplicon sequence variant (ASV) count tables to investigate microbial community structure
-          - Conducted biodiversity and statistical analyses including Principal Component Analysis (PCA), Poisson PCA (PPCA), and alpha/beta diversity metrics to identify ecological drivers of microbial community variation
+          - Analyzed microbiome datasets consisting of metadata, taxonomic classifications, and amplicon sequence variant {ASV) count tables to investigate microbial community structure
+          - Conducted biodiversity and statistical analyses including Principal Component Analysis {PCA), Poisson PCA {PPCA), and alpha/beta diversity metrics to identify ecological drivers of microbial community variation
           - Identified statistically significant relationships between microbial composition and environmental factors, using a team-developed R/Shiny-NGS biodiversity analysis platform to visualize microbial community clustering
           - Led development of open-source "Microbial Microscape" educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
           - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
-          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax
+          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules {MOSOMs) to high-school students in Halifax
 
     Skills:
       - name: Mechanical Design
@@ -289,7 +289,7 @@ cv:
         issuer: Thunder Bay District Health Unit
         icon: fa-solid fa-kitchen-set
 
-      - name: DELF (Diplôme d'Études en Langue Française)
+      - name: DELF {Diplôme d'Études en Langue Française)
         date: 2023-01-01
         issuer: France Éducation international
         icon: fa-solid fa-earth-europe
