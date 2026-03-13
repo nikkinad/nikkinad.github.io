@@ -210,6 +210,19 @@ cv:
         summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
  
     # Publications:
+
+  #       - name: Microbial Genome Analysis and Microbial Observatory Science Outreach Module (MOSOM) Development 
+  #         summary: Bielawski Research Group / Institute For Comparitive Genomics
+  # description: |
+  #   • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
+  #   • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
+  #   • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
+  #   • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
+  #   • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
+  #   • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
+  #   • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
+  #   • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants 
+    
     #   - title: Zur Elektrodynamik bewegter Körper
     #     authors:
     #       - Albert Einstein
@@ -217,7 +230,36 @@ cv:
     #     releaseDate: 1905-06-30
     #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
     #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+   
+    
+      - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
+        timeframe: 2023 – 2024
+        authors:
+          - Nikki Nadarevic and Affan Uzir
+        publisher: Bielawski Research Group, Institute For Comparitive Genomics, Supervisor: Dr. Joseph Bielawski
+        releaseDate: 2023-2024
+        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
+        summary: 
+          - Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement
+          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie’s Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource (IMR)
+          - Supported microbial DNA extraction and full-length 16S/18S rDNA PacBio amplicon sequencing to characterize both prokaryotic and eukaryotic microbial communities
+          - Analyzed microbiome datasets consisting of metadata, taxonomic classifications, and amplicon sequence variant (ASV) count tables to investigate microbial community structure
+          - Conducted biodiversity and statistical analyses including Principal Component Analysis (PCA), Poisson PCA (PPCA), and alpha/beta diversity metrics to identify ecological drivers of microbial community variation
+          - Identified statistically significant relationships between microbial composition and environmental factors, using a team-developed R/Shiny-NGS biodiversity analysis platform to visualize microbial community clustering
+          - Led developpment of open-source “Microbial Microscape” educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
+          - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
+          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax 
+        
+  #       - - name: Microbial Genome Analysis & Citizen Science Web Application
+  # timeframe: 2023 – 2024
+  # description: 
 
+  # - name: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
+  # timeframe: 2023 – 2024
+  # description:
+
+
+    • Designed Git-based tutorials guiding users through sampling, analysis, and interpretation workflows to support accessible, reproducible microbiome research
       # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
       #   authors:
       #     - Albert Einstein
@@ -333,27 +375,27 @@ cv:
         issuer: France Éducation international
         icon: fa-solid fa-earth-europe
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+  #   Projects:
+  #     - name: Quantum Computing
+  #       summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+  #       highlights:
+  #         - Quantum Teleportation
+  #         - Quantum Cryptography
+  #       start_date: 2018-01-01
+  #       end_date: 2018-01-01
 
 
-        - name: Microbial Genome Analysis Web Application
-  timeframe: 2025
-  description: |
-    • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
-    • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
-    • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
-    • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
-    • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
-    • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
-    • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
-    • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants  
+  #       - name: Microbial Genome Analysis and Microbial Observatory Science Outreach Module (MOSOM) Development 
+  #         summary: Bielawski Research Group / Institute For Comparitive Genomics
+  # description: |
+  #   • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
+  #   • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
+  #   • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
+  #   • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
+  #   • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
+  #   • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
+  #   • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
+  #   • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants  
 
     References:
       - name: Professor John Doe
