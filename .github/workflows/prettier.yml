@@ -1,3 +1,4 @@
+--write
 name: Prettier code formatter
 
 on:
