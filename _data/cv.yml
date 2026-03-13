@@ -32,13 +32,12 @@ cv:
         end_date: Present
         score: ""
         highlights:
-          - Dean's List Recipient (2024 and 2025)
-          - Dalhousie Integrated Science Program Alumni (DISP) (2023 -- 2024) 
+          - Dean's List Recipient {2024 and 2025}
+          - Dalhousie Integrated Science Program Alumni (DISP) {2023 -- 2024} 
           - Dalhousie Ringette Club, Dalhousie Women in Eng (WiE) General Member 
 
       - institution: South Carleton High School
         location: Ottawa, Ontario
-        # area: Physics
         studyType: Ontario High School Diploma 
         start_date: 2019
         end_date: 2023
@@ -56,10 +55,10 @@ cv:
         location: Carp (Ottawa), Ontario
         start_date: 2024
         end_date: Present
-        summary: Acted as the CEO’s primary support, reliably managing key projects and communications.
+        summary: Acted as the CEO's primary support, managing priorities, communications, and key projects with discretion and reliability.
         highlights:
           - Managed CEO and household schedules, coordinating weekly meetings and multi-step projects to ensure seamless operations.
-          -  Redesigned household and office workflows, optimizing spaces and processes to boost efficiency and functionality.
+          - Redesigned household and office workflows, optimizing spaces and processes to boost efficiency and functionality.
           - Oversaw household operations and provided occasional childcare support, adjusting plans to meet evolving priorities.
           - Managed confidential communications with stakeholders, ensuring discretion and maintaining strong professional relationships.
           - Resolved complex operational challenges by creating innovative solutions that balanced competing priorities for stakeholders.
@@ -99,12 +98,11 @@ cv:
         location: Ottawa, Ontario
         start_date: 2020
         end_date: 2021
-        summary: Supported daycare cleaningoperations during COVID-19 to maintain a safe environment. 
+        summary: Supported daycare cleaning operations during COVID-19 to maintain a safe environment.
         highlights: 
           - Maintained strict cleaning and sanitization schedules, reducing COVID-19 risks and ensuring child safety.
           - Consistently followed health guidelines and center policies by disinfecting toys, surfaces, and shared spaces daily.
           - Served as a keyholder, trusted with using independent judgment to prioritize tasks efficiently.
-
 
     Volunteer:
       - company: Spring Meadows Childcare Centre (formerly Stittsville Childcare Centre)
@@ -114,7 +112,7 @@ cv:
         end_date: 2024
         summary: Supported lead educators in creating a fun and safe environment for children aged infant to 12 years old.
         highlights:
-          - Assisted in planning and facilitating creative activities, supporting children’s learning and engagement.
+          - Assisted in planning and facilitating creative activities, supporting children's learning and engagement.
           - Provided one-on-one support, including for children with autism and special needs, fostering a safe and inclusive environment.
           - Organized excursions and events, coordinating logistics and maintaining safety protocols.
           - Collaborated with staff to maintain structured, positive routines and support smooth center operations.
@@ -122,31 +120,43 @@ cv:
       - company: West Ottawa Ringette Association
         position: Volunteer Junior Coach
         location: Ottawa, Ontario
-        dates: [2019-2020, 2022-2023]
-        summary: Supported lead educators in creating a fun and safe environment for children aged infant to 12 years old.
+        start_date: 2019
+        end_date: 2020
+        summary: Designed and led on-ice practice drills to build confidence and teamwork.
         highlights:
           - Designed and led on-ice practice drills to build confidence and teamwork
-          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization. 
+          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization.
           - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
-          - Attended all games and practices to provide consistent guidance and mentorship for young athletes. 
+          - Attended all games and practices to provide consistent guidance and mentorship for young athletes.
+
+      - company: West Ottawa Ringette Association
+        position: Volunteer Junior Coach
+        location: Ottawa, Ontario
+        start_date: 2022
+        end_date: 2023
+        summary: Supported coaching across multiple seasons with adapted approaches for different team dynamics.
+        highlights:
+          - Designed and led on-ice practice drills to build confidence and teamwork
+          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization.
+          - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
+          - Attended all games and practices to provide consistent guidance and mentorship for young athletes.
           - Supported two different teams across multiple seasons, adapting coaching approaches to different group dynamics and skill levels
     
     Awards:
       - title: Eclipsys Women in STEM Scholarship
         authors:
           - "DSP-Eclipsys Inc."
-        dates: [2025, 2024, 2023]
+        date: 2025
         awarder: DSP-Eclipsys Inc.
-        #url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: Three-time recipient, awarded to an outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
+        summary: Three-time recipient (2023, 2024, 2025), awarded to outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
 
       - title: OCDSB Silver Medal Award
         authors:
           - "Ottawa Carleton School District Board"
-        dates: [2020,2021,2022,2023]
+        date: 2023
         awarder: Ottawa Carleton School District Board
         url: https://southcarletonhs.ocdsb.ca/student-services/guidance/certificates
-        summary: Consistently recognized for academic excellence over multiple years.
+        summary: Consistently recognized for academic excellence over multiple years (2020, 2021, 2022, 2023).
      
       - title: Staff Centennial Award 
         authors:
@@ -158,10 +168,10 @@ cv:
       - title: J.D. Green Spirit Award
         authors:
           - "West Ottawa Ringette Association"
-        dates: [2019, 2021]
+        date: 2021
         awarder: West Ottawa Ringette Association
         url: https://www.westottawaringette.com/content/wora-awards
-        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals.
+        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals. (2019, 2021)
 
       - title: Tony Hodgins Award
         authors:
@@ -170,21 +180,21 @@ cv:
         awarder: Tony Hodgins- West Ottawa Ringette Association
         summary: Awarded by the coach to a graduating player displaying exceptional leadership, motivation, and fostering a positive, collaborative team environment.
 
-       - title: Stephanie Hamilton-Donegan Friendship Award
+      - title: Stephanie Hamilton-Donegan Friendship Award
         authors:
           - "A. Lorne Cassidy: Ottawa Carleton School District Board"
         date: 2019
-        awarder: A. Lorne Cassidy: Ottawa Carleton School District Board
+        awarder: A. Lorne Cassidy - Ottawa Carleton School District Board
         summary: Award voted by peers and staff, chosen for exceptional trustworthiness, leadership in peer support, and fostering a positive, inclusive environment.
 
-       - title: A. Lorne Cassidy School Letter Award for Leadership, Academics, and Athletics
+      - title: A. Lorne Cassidy School Letter Award for Leadership, Academics, and Athletics
         authors:
           - "A. Lorne Cassidy School"
         date: 2019
         awarder: A. Lorne Cassidy School
         summary: Recognized for leadership, contributions in academics and athletics, and setting a positive example for peers.
 
-       - title: Kiwanis Citizenship Award
+      - title: Kiwanis Citizenship Award
         authors:
           - "Kiwanis Club of Goulburn"
         date: 2018
@@ -197,16 +207,16 @@ cv:
         authors:
           - Nikki Nadarevic and Affan Uzir
         publisher: Bielawski Research Group, Institute For Comparitive Genomics, Supervisor: Dr. Joseph Bielawski
-        releaseDate: 2023-2024
+        releaseDate: 2024
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
         summary: 
           - Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement
-          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie’s Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource (IMR)
+          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie's Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource (IMR)
           - Supported microbial DNA extraction and full-length 16S/18S rDNA PacBio amplicon sequencing to characterize both prokaryotic and eukaryotic microbial communities
           - Analyzed microbiome datasets consisting of metadata, taxonomic classifications, and amplicon sequence variant (ASV) count tables to investigate microbial community structure
           - Conducted biodiversity and statistical analyses including Principal Component Analysis (PCA), Poisson PCA (PPCA), and alpha/beta diversity metrics to identify ecological drivers of microbial community variation
           - Identified statistically significant relationships between microbial composition and environmental factors, using a team-developed R/Shiny-NGS biodiversity analysis platform to visualize microbial community clustering
-          - Led developpment of open-source “Microbial Microscape” educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
+          - Led development of open-source "Microbial Microscape" educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
           - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
           - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax 
         
@@ -214,12 +224,12 @@ cv:
     - name: Mechanical Design
       level: Intermediate
       icon: fa-solid fa-drafting-compass
-      keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving" #CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Human-Centered Design, Prototyping, Rapid Prototyping, Materials Understanding, Material Selection, Mechanical Assembly, Technical Documentation, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
+      keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
 
     - name: Laboratory & Workshop Skills
       level: Intermediate
       icon: fa-solid fa-gears
-      keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing,  Following Protocols, Calibration"
+      keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing, Following Protocols, Calibration"
 
     - name: Programming & Data Tools
       level: Beginner/Intermediate
@@ -243,7 +253,7 @@ cv:
       - name: French
         summary: "Fluent"
 
-       - name: Bosnian
+      - name: Bosnian
         summary: "Beginner"
 
     Interests:
@@ -266,7 +276,7 @@ cv:
     Certificates:
       - name: Workplace Hazardous Materials Information System Training
         date: 2023-10-01
-        issuer: Dalhousie Univeristy
+        issuer: Dalhousie University
         icon: fa-solid fa-fire-extinguisher
 
       - name: Smart Serve Ontario Certification
