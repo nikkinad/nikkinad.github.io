@@ -296,9 +296,21 @@ cv:
         summary: "Beginner"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Medical Design
+        icon: fa-solid fa-user-doctor
+        keywords: "Human-Centered Solutions, Accessibility, Improving Daily Life, Adaptive Devices, Rehabilitation Tools, Medical Prototyping, Inclusive Design, Patient-Centered Solutions, Healthcare Innovation, Assistive Technology, Disability Support"
+
+      - name: STEM Outreach & Mentorship
+        icon: fa-solid fa-people-group
+        keywords: "MSOMs, Peer Mentorship, Community Engagement, Coaching, Link Crew, Teamwork, Volunteering"
+
+      - name: Woodworking & Fabrication
+        icon: fa-solid fa-hammer
+        keywords: "Material Experimentation, Joinery Techniques, Tool Mastery, Precision Cutting, Hands-On Prototyping, Custom Fixtures, Workshop Projects, Rapid Model Construction, Physical Problem Solving"
+ 
+      - name: CAD & Design
+        icon: fa-solid fa-unity
+        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Iterative Design, Human-Centered Design, Workflow Optimization, Concept Development, Technical Drawing, Design Thinking, Spatial Planning, Materials Selection"
 
     Certificates:
       - name: Machine Learning
