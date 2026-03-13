@@ -138,11 +138,7 @@ cv:
           - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
           - Attended all games and practices to provide consistent guidance and mentorship for young athletes. 
           - Supported two different teams across multiple seasons, adapting coaching approaches to different group dynamics and skill levels
-      
-
-#"Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
- #         - "Men of the year 2014 by Time magazine"
-
+    
     Awards:
       - title: Eclipsys Women in STEM Scholarship
         authors:
@@ -209,29 +205,7 @@ cv:
         awarder: Kiwanis Club of Goulburn
         summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
  
-    # Publications:
-
-  #       - name: Microbial Genome Analysis and Microbial Observatory Science Outreach Module (MOSOM) Development 
-  #         summary: Bielawski Research Group / Institute For Comparitive Genomics
-  # description: |
-  #   • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
-  #   • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
-  #   • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
-  #   • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
-  #   • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
-  #   • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
-  #   • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
-  #   • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants 
-    
-    #   - title: Zur Elektrodynamik bewegter Körper
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-06-30
-    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-    #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-   
-    
+    Publications:    
       - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
         timeframe: 2023 – 2024
         authors:
@@ -250,32 +224,6 @@ cv:
           - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
           - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules (MOSOMs) to high-school students in Halifax 
         
-  #       - - name: Microbial Genome Analysis & Citizen Science Web Application
-  # timeframe: 2023 – 2024
-  # description: 
-
-  # - name: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module (MOSOM) Development
-  # timeframe: 2023 – 2024
-  # description:
-
-
-    • Designed Git-based tutorials guiding users through sampling, analysis, and interpretation workflows to support accessible, reproducible microbiome research
-      # - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-      #   authors:
-      #     - Albert Einstein
-      #   publisher: Annalen der Physik
-      #   releaseDate: 1905-03-18
-      #   url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-      #   summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      # - title: Die Grundlage der allgemeinen Relativitätstheorie
-      #   authors:
-      #     - Albert Einstein
-      #   publisher: Annalen der Physik
-      #   releaseDate: 1916-03-20
-      #   url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-      #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
     Skills:
     - name: Mechanical Design
       level: Intermediate
@@ -301,31 +249,6 @@ cv:
       level: Advanced
       icon: fa-solid fa-users
       keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing, Scientific Presentation, Scientific Reports, User-Centered Testing, Feedback Incorporation"
-  
-      # - name: Collaboration & Communication
-      #   level: Advanced
-      #   icon: fa-solid fa-users
-      #   keywords: "Teamwork, Leadership, Coordination, Empathy, Client Interaction, Mentoring, Presentation, Reporting, Stakeholder Communication"
-   
-      # - name: Engineering & Design
-      #   level: Intermediate
-      #   icon: fa-solid fa-hashtag
-      #   keywords: "CAD, SolidWorks, Technical Drawing, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Materials Understanding, Design Thinking, Iterative Solutions,  Problem-Solving, Concept Development, Spatial Planning,  Human-Centered Design"
-   
-      # - name: Programming & Data
-      #   level: Intermediate
-      #   icon: fa-solid fa-hashtag
-      #   keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Event Planning, Decision-Making, Independent Judgement"
-   
-      # - name: Laboratory Skills
-      #   level: Intermediate
-      #   icon: fa-solid fa-flask
-      #   keywords: "Lab Safety, Workshop Safety, Experiment Setup, Prototype Assembly, Measurement, Tool Handling, Equipment Operation, Material Cutting & Shaping, 3D Printing, Troubleshooting, Documentation, Iterative Design, Quality Control, Project Testing"
-
-      # - name: Project Management & Problem Solving
-      #   level: Advanced
-      #   icon: fa-solid fa-lightbulb
-      #   keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Event Planning, Decision-Making, Independent Judgement"
 
     Languages:
       - name: English
@@ -375,28 +298,6 @@ cv:
         issuer: France Éducation international
         icon: fa-solid fa-earth-europe
 
-  #   Projects:
-  #     - name: Quantum Computing
-  #       summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-  #       highlights:
-  #         - Quantum Teleportation
-  #         - Quantum Cryptography
-  #       start_date: 2018-01-01
-  #       end_date: 2018-01-01
-
-
-  #       - name: Microbial Genome Analysis and Microbial Observatory Science Outreach Module (MOSOM) Development 
-  #         summary: Bielawski Research Group / Institute For Comparitive Genomics
-  # description: |
-  #   • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
-  #   • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
-  #   • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
-  #   • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
-  #   • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
-  #   • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
-  #   • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
-  #   • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants  
-
     References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
@@ -407,79 +308,3 @@ cv:
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
 
-# ## Summary
-# Highly motivated employee with desire to take on new challenges. Strong worth ethic, adaptability, and
-# exceptional interpersonal skills. Adept at working effectively unsupervised under high-stress environments and
-# quickly mastering new skills.
-# Professional Experience
-# SEASONAL: 2024- CURRENT
-# 2022 – CURRENT
-# Household and Personal Assistant Syntax Strategic | Carp, Ontario
-# • Managed CEO’s personal and household transportation, appointments, and schedules with precision
-# • Handled laundry and housekeeping, maintaining high standards of cleanliness and order
-# • Efficiently ran errands and managed household tasks
-# • Planned and prepared healthy meals according to dietary needs and preferences
-# • Cared for and engaged the CEO’s two children with creative activities
-# • Coordinated personal and company events, through organizing vendors and guests.
-# Kitchen Staff and Cafe Server Equator Coffee Roasters | Stittsville, Ontario
-# • Used exact methods and followed recipes or experimented with new ideas to create high-quality baked
-# goods, all while maintaining consistency.
-# • Skillfully prepared and cooked various delicious meals to complement cafe offerings.
-# Pharmacy Assistant 2021-2022
-# IDA Pharmacy | Richmond, Ontario
-# • Executed tasks essential to medication dispensing while ensuring accuracy, and prioritizing patient safety
-# in a busy environment.
-# Early Childhood Assistant (Volunteer & Paid Positions) SEASONAL: 2017- 2022
-# Stittsville Childcare Centre | Stittsville, Ontario
-# • Collaborated closely with daycare leaders to create engaging activities and organize camp excursions, while
-# maintaining values of a not-for-profit daycare.
-# • Provided support and guidance to children, including one-on-one assistance for those with special needs.
-# • Managed daily closing tasks like cleaning and sanitization as a trusted keyholder.
-# • Conducted weekly deep cleaning and maintenance, independently prioritizing tasks while remaining
-# receptive to directives if provided.
-# Shift Leader Tim Hortons | Richmond, Ontario
-# • Worked well under pressure in a fast paced, high-volume environment.
-# • Consistently provided guest service; build loyal customer relations
-# • Prepared and served various food and drinks, adhering to food safety guidelines.
-# • Assisted in the training of new team members.
-# APRIL 2020 - OCTOBER 2020
-# Junior Coach 2019-2020
-# West Ottawa Ringette Association | Ottawa, Ontario
-# • Created and led on-ice practice drills and assisted the lead coach with team evaluations.
-# • Attended all team games to provide encouragement and guidance.
-# NIKKI NADAREVIC
-# (613) 804-5254 | nikkinadyy@outlook.com | Halifax, Nova Scotia| Ottawa, Ontario
-# Academic Background
-# Bachelor of Engineering
-# Dalhousie University, Halifax, Nova Scotia
-# 2023 - Current
-# Grants, Honours, Awards, Scholarships Received
-# Ontario Secondary School Diploma
-# South Carleton High School, Ottawa, Ontario
-# 2019 – 2023
-# Dalhousie University Dean’s List | 2024
-# Eclipsys Women in STEM | 2023, 2024
-# South Carleton Staff Choice Award | 2023
-# Silver Medal Award | 2020, 2021, 2022, 2023
-# J.D. Green Award for Best Team Leadership | 2018, 2021
-# Stephanie Hamilton-Donegan Friendship Award | 2019
-# A. Lorne Cassidy School Letter Award for Leadership, Academics and Athletics | 2019
-# Kiwanis Citizenship Award, Kiwanis Club of Goulburn | 2016
-# Certifications
-# Safe Food Handler Training
-# Thunder Bay District Health Unit
-# In Good Hands | Ontario Ministry of
-# Health
-# 2022 – 2027
-# Skills
-# Babysitter’s Course
-# Canadian Red Cross First
-# Aid and CPR
-# 2016
-# Leadership Courses
-# Cooligan Martial Arts
-# 2015-2017
-# Fast learner | Very hard-worker and reliable | Great communicator and multitasker | Excellent at prioritizing and
-# planning | Strong organizational skills | Excellent team worker | Detail-oriented | Exceptional time management
-# abilities | Great at problem-solving | Amazing cook and baker | Very patient | Advanced knowledge of Microsoft
-# Office and Google applications | Extremely adaptable and works well under high pressure. 
