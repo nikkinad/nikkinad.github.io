@@ -7,15 +7,15 @@ cv:
   summary: Motivated engineering student with strong problem-solving, teamwork, and project coordination skills.
 
   social_networks:
-    - network: X
-      username: nikki_nad
     - network: GitHub
       username: nikkinad
     - network: LinkedIn
       username: nikkinad
+    - network: X
+      username: nikki_nad
 
   address:
-    street: 604 Tower Rd
+    street: 604 Tower Rd.
     city: Halifax
     region: Nova Scotia
     postalCode: B3H 2X7
@@ -32,90 +32,80 @@ cv:
         end_date: ""
         score: ""
         highlights:
-          - Dean's List Recipient {2024 and 2025}
-          - Dalhousie Integrated Science Program Alumni {DISP) {2023 -- 2024}
-          - Dalhousie Ringette Club, Dalhousie Women in Eng {WiE) General Member
+          - Dean's List Recipient (2024 and 2025)
+          - Dalhousie Integrated Science Program Alumni (2023-2024)
+          - Dalhousie Ringette Club and Women in Engineering member
 
       - institution: South Carleton High School
         location: Ottawa, Ontario
+        area: ""
         studyType: Ontario High School Diploma
         start_date: 2019
         end_date: 2023
         highlights:
           - French Immersion Certificate
-          - Recieved Honour Roll and Silver Medal awards for all 4 years
-          - Honoured with the South Carleton Staff Centennial Award in 2023
-          - Prom Comittee Fundraising Coordinator, Link Crew Leader, Leadership Planning Committee
-          - Varsity Rugby Assistant Captain, Wheelchair Basketball Team Leader
-          - Girls Touch Football, Alpine Ski Racing
+          - Honour Roll and Silver Medal awards (all 4 years)
+          - South Carleton Staff Centennial Award (2023)
 
     Experience:
       - company: Syntax Strategic
-        position:  Executive Assistant to the CEO
-        location: Ottawa, Ontario
+        position: Executive Assistant to the CEO
+        location: Carp, Ontario
         start_date: 2024
         end_date: ""
         summary: Acted as the CEO's primary support, managing priorities, communications, and key projects with discretion and reliability.
-        highlights: 
-          - Managed CEO and household schedules, coordinating weekly meetings and multi-step projects to ensure seamless operations.
-          - Redesigned household and office workflows, optimizing spaces and processes to boost efficiency and functionality.
-          - Oversaw household operations and provided occasional childcare support, adjusting plans to meet evolving priorities.
-          - Managed confidential communications with stakeholders, ensuring discretion and maintaining strong professional relationships.
-          - Resolved complex operational challenges by creating innovative solutions that balanced competing priorities for stakeholders.
-          - Proactively identified potential workflow issues and implemented solutions to maintain uninterrupted operations.
-          - Directed end-to-end event planning, coordinating vendors, logistics, and resources to deliver seamless experiences.
-          - Delivered executive-level support, exercising independent judgment, accountability, and strategic decision-making.
-    
+        highlights:
+          - Managed CEO and household schedules, coordinating weekly meetings and multi-step projects
+          - Redesigned household and office workflows, optimizing spaces and processes
+          - Managed confidential communications with stakeholders
+          - Directed end-to-end event planning and coordination
+
       - company: Equator Coffee Roasters
-        position:  Kitchen Lead and Cafe Server
-        location: Ottawa, Ontario
+        position: Kitchen Lead and Cafe Server
+        location: Stittsville, Ontario
         start_date: 2022
         end_date: 2024
         summary: Worked with team members to manage cafe operations, ensuring smooth workflow and customer satisfaction.
         highlights:
-          - Prepared gourmet meals and baked goods, maintaining consistency and quality in a fast-paced environment
-          - Led and coordinated team tasks and kitchen operations as a trusted keyholder, ensuring smooth workflow and high-quality service
-          - Contributed to menu development, creating new recipes and testing creative solutions to enhance offerings.
-          - Built strong customer relationships, fostering loyalty through attentive, personalized service
-          - Trained and mentored new staff, fostering a safe, positive, and efficient team environment
-          - Maintained clean and organized kitchen and service areas, promoting efficiency and health/safety standards
-          
+          - Prepared gourmet meals and baked goods in fast-paced environment
+          - Led team operations as trusted keyholder
+          - Contributed to menu development and recipe testing
+          - Trained and mentored new staff members
+
       - company: IDA Pharmacy
         position: Pharmacy Assistant
-        location: Richmond, Ontario
+        location: Richmond, Ottawa
         start_date: 2021
         end_date: 2022
-        summary: Reliably executed tasks essential to medication dispensing while ensuring accuracy, and prioritizing patient safety
+        summary: Reliably executed tasks essential to medication dispensing while ensuring accuracy and patient safety.
         highlights:
-          - Assisted with medication dispensing, ensuring accuracy and patient safety in a fast-paced environment
-          - Communicated clearly with patients and healthcare staff to provide information and resolve questions
-          - Maintained precise records and organized inventory to support efficient pharmacy operations
-          - Supported team workflow by anticipating needs and proactively preparing materials and supplies
-          - Managed multiple tasks simultaneously while prioritizing urgent requests and deadlines
+          - Assisted with medication dispensing and inventory management
+          - Communicated clearly with patients and healthcare staff
+          - Maintained precise records in fast-paced environment
 
-      - company: Spring Meadows Childcare Centre {formerly Stittsville Childcare Centre}
-        position: Daycare Cleaner {Temporary}
+      - company: Spring Meadows Childcare Centre
+        position: Daycare Cleaner
         location: Ottawa, Ontario
         start_date: 2020
         end_date: 2021
         summary: Supported daycare cleaning operations during COVID-19 to maintain a safe environment.
         highlights:
-          - Maintained strict cleaning and sanitization schedules, reducing COVID-19 risks and ensuring child safety.
-          - Consistently followed health guidelines and center policies by disinfecting toys, surfaces, and shared spaces daily.
-          - Served as a keyholder, trusted with using independent judgment to prioritize tasks efficiently.
+          - Maintained strict cleaning and sanitization schedules
+          - Followed health guidelines and disinfection protocols
+          - Served as keyholder with independent judgment
 
     Volunteer:
-      - company: Spring Meadows Childcare Centre {formerly Stittsville Childcare Centre}
+      - company: Spring Meadows Childcare Centre
         position: Volunteer Daycare Assistant
         location: Ottawa, Ontario
         start_date: 2017
         end_date: 2024
-        summary: Supported lead educators in creating a fun and safe environment for children aged infant to 12 years old.
+        summary: Supported lead educators in creating a fun and safe environment for children aged infant to 12 years.
         highlights:
-          - Assisted in planning and facilitating creative activities, supporting children's learning and engagement.
-          - Provided one-on-one support, including for children with autism and special needs, fostering a safe and inclusive environment.
-          - Organized excursions and events, coordinating logistics and maintaining safety protocols.
-          - Collaborated with staff to maintain structured, positive routines and support smooth center operations.
+          - Assisted in planning and facilitating creative activities
+          - Provided one-on-one support including for children with special needs
+          - Organized excursions and events
+          - Collaborated with staff to maintain structured routines
 
       - company: West Ottawa Ringette Association
         position: Volunteer Junior Coach
@@ -124,23 +114,22 @@ cv:
         end_date: 2020
         summary: Designed and led on-ice practice drills to build confidence and teamwork.
         highlights:
-          - Designed and led on-ice practice drills to build confidence and teamwork
-          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization.
-          - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
-          - Attended all games and practices to provide consistent guidance and mentorship for young athletes.
+          - Designed and led practice drills
+          - Assisted head coach with team logistics and game preparation
+          - Fostered positive and inclusive team environment
+          - Provided consistent guidance and mentorship
 
       - company: West Ottawa Ringette Association
         position: Volunteer Junior Coach
         location: Ottawa, Ontario
         start_date: 2022
         end_date: 2023
-        summary: Supported coaching across multiple seasons with adapted approaches for different team dynamics.
+        summary: Coached across multiple seasons with adapted approaches for different teams.
         highlights:
-          - Designed and led on-ice practice drills to build confidence and teamwork
-          - Assisted the head coach with team logistics and game preparation, including scheduling and equipment organization.
-          - Fostered a positive and inclusive team environment, encouraging sportsmanship and personal growth
-          - Attended all games and practices to provide consistent guidance and mentorship for young athletes.
-          - Supported two different teams across multiple seasons, adapting coaching approaches to different group dynamics and skill levels
+          - Designed and led practice drills
+          - Assisted head coach with logistics and preparation
+          - Fostered positive team environment
+          - Provided mentorship to young athletes
 
     Awards:
       - title: Eclipsys Women in STEM Scholarship
@@ -148,7 +137,7 @@ cv:
           - "DSP-Eclipsys Inc."
         date: 2025
         awarder: DSP-Eclipsys Inc.
-        summary: Three-time recipient {2023, 2024, 2025}, awarded to outstanding female-identifying students for excellence in STEM, selected for essays reflecting mentorship, personal inspiration, and leadership.
+        summary: Three-time recipient (2023, 2024, 2025) for excellence in STEM.
 
       - title: OCDSB Silver Medal Award
         authors:
@@ -156,14 +145,14 @@ cv:
         date: 2023
         awarder: Ottawa Carleton School District Board
         url: https://southcarletonhs.ocdsb.ca/student-services/guidance/certificates
-        summary: Consistently recognized for academic excellence over multiple years {2020, 2021, 2022, 2023).
+        summary: Recognized for academic excellence over multiple years (2020-2023).
 
       - title: Staff Centennial Award
         authors:
           - "South Carleton High School"
         date: 2023
         awarder: South Carleton High School
-        summary: Selected by staff as the sole recipient for exemplary contributions, leadership, and positive impact within the school community.
+        summary: Selected by staff for exemplary contributions and leadership.
 
       - title: J.D. Green Spirit Award
         authors:
@@ -171,80 +160,71 @@ cv:
         date: 2021
         awarder: West Ottawa Ringette Association
         url: https://www.westottawaringette.com/content/wora-awards
-        summary: Awarded for exceptional collaboration, leadership, and motivating teammates to achieve shared goals. {2019, 2021)
+        summary: Awarded for exceptional collaboration and leadership.
 
       - title: Tony Hodgins Award
         authors:
-          - "Tony Hodgins- West Ottawa Ringette Association"
+          - "Tony Hodgins - West Ottawa Ringette Association"
         date: 2023
-        awarder: Tony Hodgins- West Ottawa Ringette Association
-        summary: Awarded by the coach to a graduating player displaying exceptional leadership, motivation, and fostering a positive, collaborative team environment.
+        awarder: West Ottawa Ringette Association
+        summary: Recognizes exceptional leadership and teamwork.
 
       - title: Stephanie Hamilton-Donegan Friendship Award
         authors:
-          - "A. Lorne Cassidy: Ottawa Carleton School District Board"
+          - "Ottawa Carleton School District Board"
         date: 2019
-        awarder: A. Lorne Cassidy - Ottawa Carleton School District Board
-        summary: Award voted by peers and staff, chosen for exceptional trustworthiness, leadership in peer support, and fostering a positive, inclusive environment.
+        awarder: Ottawa Carleton School District Board
+        summary: Chosen for trustworthiness and fostering an inclusive environment.
 
-      - title: A. Lorne Cassidy School Letter Award for Leadership, Academics, and Athletics
+      - title: A. Lorne Cassidy School Letter Award
         authors:
           - "A. Lorne Cassidy School"
         date: 2019
         awarder: A. Lorne Cassidy School
-        summary: Recognized for leadership, contributions in academics and athletics, and setting a positive example for peers.
+        summary: Recognized for leadership, academics, and athletics.
 
       - title: Kiwanis Citizenship Award
         authors:
           - "Kiwanis Club of Goulburn"
         date: 2018
         awarder: Kiwanis Club of Goulburn
-        summary: Awarded to a community member for outstanding service, leadership, and exemplary citizenship.
+        summary: Awarded for outstanding service and exemplary citizenship.
 
     Publications:
-      - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module {MOSOM) Development
-        timeframe: 2023 – 2024
+      - title: Microbial Genome Analysis in Coastal Environments & Microbial Observatory Science Outreach Module Development
         authors:
-          - Nikki Nadarevic and Affan Uzir
-        publisher: "Bielawski Research Group, Institute For Comparitive Genomics, Supervisor: Dr. Joseph Bielawski"
+          - Nikki Nadarevic
+          - Affan Uzir
+        publisher: "Bielawski Research Group, Institute For Comparative Genomics, Supervisor: Dr. Joseph Bielawski"
         releaseDate: 2024
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary:
-          - Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement
-          - Contributed to analysis of environmental microbiome datasets collected from the Harrison Lewis Coastal Discovery Centre in collaboration with Dalhousie's Institute for Comparative Genomics, the Hakai Institute, and the Integrated Microbiome Resource {IMR)
-          - Supported microbial DNA extraction and full-length 16S/18S rDNA PacBio amplicon sequencing to characterize both prokaryotic and eukaryotic microbial communities
-          - Analyzed microbiome datasets consisting of metadata, taxonomic classifications, and amplicon sequence variant {ASV) count tables to investigate microbial community structure
-          - Conducted biodiversity and statistical analyses including Principal Component Analysis {PCA), Poisson PCA {PPCA), and alpha/beta diversity metrics to identify ecological drivers of microbial community variation
-          - Identified statistically significant relationships between microbial composition and environmental factors, using a team-developed R/Shiny-NGS biodiversity analysis platform to visualize microbial community clustering
-          - Led development of open-source "Microbial Microscape" educational modules hosted on GitHub that guide users through microbiome data analysis workflows including dataset preparation, statistical testing, and ecological interpretation
-          - Designed tutorials enabling citizen scientists and high-school students to upload metadata, taxonomy, and sequence data files and independently conduct biodiversity analysis using the Shiny NGS platform to promote accessible, open-science participation in biodiversity research
-          - Presented research findings at a scientific poster fair and virtually supported the rollout of Microbial Observatory Science Outreach Modules {MOSOMs) to high-school students in Halifax
+        url: https://github.com/nikkinad/microbial-microscape
+        summary: Multi-part microbiome research project investigating environmental drivers of coastal microbial community composition while addressing limitations of traditional sampling approaches and promoting inclusive citizen science engagement.
 
     Skills:
       - name: Mechanical Design
         level: Intermediate
         icon: fa-solid fa-drafting-compass
-        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development, Spatial Planning, Design Thinking, Human-Centered Design, Iterative Design, Problem-Solving"
+        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Technical Drawing, Prototyping, Rapid Prototyping, CNC Basics, Material Selection, Mechanical Assembly, Concept Development"
 
       - name: Laboratory & Workshop Skills
         level: Intermediate
         icon: fa-solid fa-gears
-        keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Tool Handling, Equipment Operation, Electronics Basics, Material Cutting & Shaping, 3D Printing, Sample Collection, Field Work, Troubleshooting, Quality Control, Project Testing, Following Protocols, Calibration"
+        keywords: "Lab Safety, Workshop Safety, Experiment Setup, Quality Control, Project Testing, Sensors & Actuators, Prototype Assembly, Technical Documentation, Measurement, Equipment Operation"
 
       - name: Programming & Data Tools
-        level: Beginner/Intermediate
+        level: Intermediate
         icon: fa-solid fa-laptop-code
-        keywords: "C++, RStudio, Python, MATLAB, Arduino, Bash, Git BASH, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection, Sensor Integration, Visualization"
+        keywords: "C++, Python, MATLAB, Arduino, Bash, Git, GitHub, Data Analysis, Data Transformation, Simulation, Lab Data Collection"
 
       - name: Project Management & Problem Solving
         level: Advanced
         icon: fa-regular fa-lightbulb
-        keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making, Independent Judgement, High Level of Accuracy, Attention to Detail, Iterative Solutions"
+        keywords: "Creative Solutions, Adaptability, Initiative, Task Prioritization, Workflow Optimization, Problem-Solving, Event Planning, Decision-Making"
 
       - name: Collaboration & Communication
         level: Advanced
         icon: fa-solid fa-users
-        keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing, Scientific Presentation, Scientific Reports, User-Centered Testing, Feedback Incorporation"
+        keywords: "Teamwork, Leadership, Mentoring, Presentation, Reporting, Communication, Empathy, Client Interaction, Coordination, Scientific Writing"
 
     Languages:
       - name: English
@@ -259,19 +239,19 @@ cv:
     Interests:
       - name: Medical Design
         icon: fa-solid fa-user-doctor
-        keywords: "Human-Centered Solutions, Accessibility, Improving Daily Life, Adaptive Devices, Rehabilitation Tools, Medical Prototyping, Inclusive Design, Patient-Centered Solutions, Healthcare Innovation, Assistive Technology, Disability Support"
+        keywords: "Human-Centered Solutions, Accessibility, Improving Daily Life, Adaptive Devices, Rehabilitation Tools, Medical Prototyping"
 
       - name: STEM Outreach & Mentorship
         icon: fa-solid fa-people-group
-        keywords: "MSOMs, Peer Mentorship, Community Engagement, Coaching, Link Crew, Teamwork, Volunteering"
+        keywords: "Peer Mentorship, Community Engagement, Coaching, Link Crew, Teamwork, Volunteering"
 
       - name: Woodworking & Fabrication
         icon: fa-solid fa-hammer
-        keywords: "Material Experimentation, Joinery Techniques, Tool Mastery, Precision Cutting, Hands-On Prototyping, Custom Fixtures, Workshop Projects, Rapid Model Construction, Physical Problem Solving"
+        keywords: "Material Experimentation, Joinery Techniques, Tool Mastery, Precision Cutting, Hands-On Prototyping, Custom Fixtures"
 
       - name: CAD & Design
         icon: fa-solid fa-unity
-        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Iterative Design, Human-Centered Design, Workflow Optimization, Concept Development, Technical Drawing, Design Thinking, Spatial Planning, Materials Selection"
+        keywords: "CAD, SolidWorks, AutoCAD, 3D Modeling, Prototyping, Rapid Prototyping, Iterative Design, Human-Centered Design"
 
     Certificates:
       - name: Workplace Hazardous Materials Information System Training
@@ -289,16 +269,16 @@ cv:
         issuer: Thunder Bay District Health Unit
         icon: fa-solid fa-kitchen-set
 
-      - name: DELF {Diplôme d'Études en Langue Française)
+      - name: DELF (Diplôme d'Études en Langue Française)
         date: 2023-01-01
-        issuer: France Éducation international
+        issuer: France Éducation International
         icon: fa-solid fa-earth-europe
 
     References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem.
 
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem.
