@@ -2,7 +2,7 @@ cv:
   name: Nikki Nadarevic
   label: Mechanical Engineering Student
   email: nikki.nadarevic@dal.ca
-  location: Halifax, Ns
+  location: Halifax, NS
   image: ""
   summary: Motivated engineering student with strong problem-solving, teamwork, and project coordination skills.
 
@@ -15,7 +15,7 @@ cv:
       username: nikkinad
 
   address:
-    street: 604 Tower Rd.
+    street: 604 Tower Rd
     city: Halifax
     region: Nova Scotia
     postalCode: B3H 2X7
@@ -51,12 +51,11 @@ cv:
 
     Experience:
       - company: Syntax Strategic
-        position: Executive Assistant to the CEO
-        location: Carp (Ottawa), Ontario
+        position:  Executive Assistant to the CEO
+        location: Ottawa, Ontario
         start_date: 2024
         end_date: ""
         summary: Acted as the CEO's primary support, managing priorities, communications, and key projects with discretion and reliability.
-        highlights:
           - Managed CEO and household schedules, coordinating weekly meetings and multi-step projects to ensure seamless operations.
           - Redesigned household and office workflows, optimizing spaces and processes to boost efficiency and functionality.
           - Oversaw household operations and provided occasional childcare support, adjusting plans to meet evolving priorities.
@@ -65,21 +64,20 @@ cv:
           - Proactively identified potential workflow issues and implemented solutions to maintain uninterrupted operations.
           - Directed end-to-end event planning, coordinating vendors, logistics, and resources to deliver seamless experiences.
           - Delivered executive-level support, exercising independent judgment, accountability, and strategic decision-making.
-
+    
       - company: Equator Coffee Roasters
-        position: Kitchen Lead and Cafe Server
-        location: Stittsville, Ontario (Location Closed)
+        position:  Kitchen Lead and Cafe Server
+        location: Ottawa, Ontario
         start_date: 2022
         end_date: 2024
         summary: Worked with team members to manage cafe operations, ensuring smooth workflow and customer satisfaction.
-        highlights:
           - Prepared gourmet meals and baked goods, maintaining consistency and quality in a fast-paced environment
           - Led and coordinated team tasks and kitchen operations as a trusted keyholder, ensuring smooth workflow and high-quality service
           - Contributed to menu development, creating new recipes and testing creative solutions to enhance offerings.
           - Built strong customer relationships, fostering loyalty through attentive, personalized service
           - Trained and mentored new staff, fostering a safe, positive, and efficient team environment
           - Maintained clean and organized kitchen and service areas, promoting efficiency and health/safety standards
-
+          
       - company: IDA Pharmacy
         position: Pharmacy Assistant
         location: Richmond (Ottawa), Ontario
