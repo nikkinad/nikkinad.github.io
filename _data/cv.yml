@@ -342,6 +342,19 @@ cv:
         start_date: 2018-01-01
         end_date: 2018-01-01
 
+
+        - name: Microbial Genome Analysis Web Application
+  timeframe: 2025
+  description: |
+    • Conducted a multi-part microbial analysis project in a supervised lab to study environmental microbial diversity  
+    • Collected and sequenced microbial samples to understand ecosystem composition and detect patterns relevant to biodiversity research  
+    • Built a web application allowing citizen scientists to upload sequencing data for automated genome assembly, annotation, and analysis  
+    • Developed Git-based step-by-step tutorials guiding users through experimental setup, data submission, and genome interpretation  
+    • Created interactive visualizations to help users understand microbial diversity, abundance, and functional pathways  
+    • Validated outputs against lab-generated reference datasets to ensure accuracy and reproducibility  
+    • Coordinated backend and frontend integration, troubleshooting, and documentation to support scalable, user-friendly workflows  
+    • Focused on making microbiome research accessible while maintaining scientific rigor and usability for non-specialist participants  
+
     References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
