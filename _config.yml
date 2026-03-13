@@ -7,7 +7,7 @@ first_name: Nikki
 middle_name: H. 
 last_name: Nadarevic
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Send me an email, or connect with me on Linkedin! Looking forward to hearing from you! 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Nikki Writes! # blog_name will be displayed in your blog page
+blog_description: Blog is loading... Come back soon!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -204,6 +204,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll
