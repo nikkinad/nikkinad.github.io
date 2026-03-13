@@ -37,9 +37,3 @@ Since moving into mechanical engineering, I’ve continued exploring design thro
 Outside of engineering, I’m someone who just really likes making things! I run a small at-home bakery where I get to experiment with recipes and designs, and I’m always happy to start a new DIY project or art idea. (I spend WAY too much money at Micheal's and Home Depot). I also love being outdoors and spending as much time with my family as I can. And if there’s a dog nearby, there’s a very good chance I’m going to go say hi.
 
 I’m naturally a curious person and I like learning new skills, trying new tools, and figuring things out as I go. Whether it’s building something, designing something, or even baking something, I’m happiest when I’m creating things that bring value or joy to other people! This site is where I share some of the projects I’ve worked on and things I’m currently exploring. If you’d like to see more of what I’m working on, you can also find me on [GitHub](https://github.com/nikkinad), [LinkedIn](https://linkedin.com/in/nikkinad), or [Instagram](instagram.com/nikkinadarevic). 
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
