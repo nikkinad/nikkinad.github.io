@@ -1,14 +1,48 @@
-title: ""
-description: ""
-baseurl: ""
-url: https://nikkinad.github.io
 
+title: cvless
+description: Jekyll theme for a beautiful online CV
+baseurl: ""
+url: https://piazzai.github.io/cvless
+
+theme: cvless
+
+# site settings
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+
+# author settings
+author:
+  name: Nikki Nadarevic
+  email: nikki.nadarevic@dal.ca
+photo: assets/files/photo.jpg
+joblines:
+  - Second-Year Mechanical Engineering Student
+  - Dalhousie University
+  - 123 Main St, Anytown, USA
+address: 604 Tower Road
+phone: +1 613 804 5254
+
+# profile links
+profile:
+ # facebook: https://www.facebook.com/username
+  x: https://x.com/nikkinad
+#  mastodon: https://mastodon.social/@username
+#  bluesky: https://bsky.app/profile/username.bsky.social
+  instagram: https://www.instagram.com/nikkinadarevic
+  linkedin: https://www.linkedin.com/in/nikkinad
+#  xing: https://www.xing.com/profile/username
+#  stackoverflow: https://stackoverflow.com/users/0000000/username
+  medium: https://medium.com/@username
+  github: https://github.com/nikkinad
+  cv: true
+
+# build settings
+permalink: pretty
 exclude:
-  - demo/
-  - cvless.gemspec
   - LICENSE
   - README.md
-  - screenshot.png
+  - Gemfile
+  - vendor/
 
 plugins:
   - jekyll-feed
@@ -18,8 +52,8 @@ plugins:
   - jekyll-sitemap
 
 sass:
-  style: compressed
   sourcemap: never
+
 
 feed:
   path: atom.xml
@@ -33,3 +67,5 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+  
