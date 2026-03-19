@@ -1,7 +1,7 @@
 title: ""
 description: ""
-baseurl: nikkinad.github.io
-url: nikkinad.github.io
+baseurl: ""
+url: https://nikkinad.github.io
 
 exclude:
   - demo/
